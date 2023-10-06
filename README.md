@@ -1,2 +1,2 @@
 # viratsingh
-this is my first repo
+Author-Virat Sngh
